@@ -1,5 +1,5 @@
 ONLINE RETAIL AND E-COMMERCE SALES ANALYSIS
-Proposed by: Mwaura Ngugi
+Proposed by: Mwaura Ngugi-677652
 Course: Data Science and Analytics
 Date: 3/6/2026
 Submitted to: Prof Austin Odera
