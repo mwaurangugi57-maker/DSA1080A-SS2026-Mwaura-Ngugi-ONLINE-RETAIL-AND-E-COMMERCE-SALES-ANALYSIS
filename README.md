@@ -6,7 +6,7 @@ Submitted to: Prof Austin Odera
 DATASET DESCRIPTION
 Dataset Source: Kaggle
 Dataset name: Online Retail II UCI
-URL: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?resource=download
+URL: https://github.com/mwaurangugi57-maker/DSA1080A-SS2026-Mwaura-Ngugi-ONLINE-RETAIL-AND-E-COMMERCE-SALES-ANALYSIS
 DATASET OVERVIEW
 Number of rows: Contains 1,067,371 rows
 RESEARCH QUESTIONS
